@@ -1,2 +1,14 @@
-# Railway_Management
-Railway Event Management System - A Node.js/Express API for tracking railway events, crowd monitoring, and resource planning. Features MongoDB database, RESTful endpoints, and comprehensive data validation. Perfect for managing railway operations and staff allocation.
+# Railway Event Management System
+
+## Quick Start
+1. npm install
+2. Rename .env.example to .env
+3. Add MongoDB connection
+4. npm start
+5. Open http://localhost:5000
+
+## Deployment
+1. Push to GitHub
+2. Deploy on Render.com
+3. Add MONGODB_URI variable
+4. Get public link!
